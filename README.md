@@ -1,7 +1,7 @@
 # JS-JEDIS-WASM-RUST-DEMO
 Webassembly demo and integration into webpage using RUST 
 
-MACOS ()
+MACOS
 
 1. install rustup
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
